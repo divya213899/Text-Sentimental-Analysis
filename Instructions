@@ -1,0 +1,15 @@
+Instructions:
+
+1. Article extracted: All articles from given URL- 37 to 150 are available in zip file itself in URLID.0.txt formate.
+
+
+
+2. Final Output file: All asked 13 variables have been evaluated and calculated and are present in "Task_completed.xlsx" file in same formate as given in "Output Data Structure.xlxs", please go through it.
+
+
+
+3. All code work is completed ethically by me in jupyter notebook and finally downloaded as .py file - "text_Sentiment_analysis.py", kindly have a look at it.
+
+
+
+PS: I have also kept all provided files/folders (MasterDictionary, Stopword, Output Data Structure.xlsx etc) as it is, in my submitted zip file.
